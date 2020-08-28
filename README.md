@@ -5,3 +5,6 @@ Instrucciones
 
 1. Instalar dependencias con npm install
 2. Para correr el algoritmo AES, dentro de la carpeta ejecutamos el comando node AESAlgorithm.js My Cadena Original
+3. Para correr el algoritmo RSA, ejecutar el comando
+   	       	  	    	 node RSAAlgorithm.js Texto a cifrar
+
